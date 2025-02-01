@@ -1,0 +1,4 @@
+# Dependencies list 
+flask
+flask_sqlalchemy
+flask_restful
